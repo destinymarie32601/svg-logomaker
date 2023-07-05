@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/destinymarie32601/svg-logomaker#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^8.2.4",
     "jest": "^29.6.0"
   }
